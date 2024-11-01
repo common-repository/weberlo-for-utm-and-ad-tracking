@@ -1,0 +1,71 @@
+.weberlo {
+    max-width: 600px;
+    margin: 50px auto;
+    background: #fff;
+    border: 1px solid #ddd;
+}
+
+.weberlo__header {
+    background: #264653;
+    text-align: center;
+    padding: 15px 15px 10px;
+}
+
+.weberlo__header img {
+    width: 160px;
+}
+
+.weberlo__content {
+    padding: 70px 20px;
+    text-align: center;
+}
+
+.weberlo__content h3 {
+    font-size: 24px;
+    color: #264653;
+    margin-bottom: 10px;
+}
+
+.weberlo-error {
+    color: red;
+}
+
+.weberlo__form {
+    width: 300px;
+    margin: 30px auto 0; 
+}
+
+.weberlo__field {
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.weberlo__field.weberlo_for_wc {
+    margin-bottom: 15px;
+}
+
+.weberlo__field label {
+    display: inline-block;
+    margin-bottom: 5px;
+}
+
+.weberlo__field.weberlo-checkbox {
+    text-align: left;
+    margin-bottom: 15px;
+}
+
+.weberlo__content form input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    border-radius: 0;
+}
+
+.weberlo__button {
+    border: 0;
+    border-radius: 0;
+    color: #fff;
+    padding: 15px 60px;
+    background: #264653;
+    margin-top: 10px;
+    cursor: pointer;
+}
